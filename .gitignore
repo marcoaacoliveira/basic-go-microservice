@@ -2,3 +2,4 @@
 /broker-service/brokerApp
 .DS_Store
 workspace.code-workspace
+/authentication-service/authApp
